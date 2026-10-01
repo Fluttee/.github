@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+A great place for Flutter packages 😉
+
 <!--
 
 **Here are some ideas to get you started:**
