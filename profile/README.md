@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A great place for Flutter packages 😉
+A great place for Dart/Flutter 😉
 
 <!--
 
